@@ -3,6 +3,8 @@ ABI RESOLUSI
 -BELAJAR BOOTSTRAP
 -BELAJAR GITHUB
 -BELAJAR DASAR PEMROGRAMAN JAVASCRIPT
+*belajar structure data
+*belajar framework javascript
 -Belajar lanjutan javascript
 -Belajar react js
 -Belajar API
